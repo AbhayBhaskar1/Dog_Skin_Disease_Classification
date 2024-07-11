@@ -2,11 +2,11 @@
 
 ## Project Overview
 
-This project is dedicated to creating a sophisticated system for identifying and classifying dog skin diseases using advanced deep learning technology. By harnessing Convolutional Neural Networks (CNN) with TensorFlow, the system excels in accurately and swiftly recognizing various diseases from dog images. It encompasses the setup of a robust backend server, and the development of a user-friendly frontend that adapts seamlessly to different screen sizes.
+This project is dedicated to creating a sophisticated system for identifying and classifying dog skin diseases using advanced deep learning technology. By harnessing Convolutional Neural Networks (CNN) with TensorFlow, the system excels in accurately and swiftly recognizing various skin diseases from dog images. It encompasses the setup of a robust backend server, and the development of a user-friendly frontend that adapts seamlessly to different screen sizes.
 
 ## Features
 
-- **Image Classification Models**: Uses CNNs with TensorFlow for dog disease classification.
+- **Image Classification Models**: Uses CNNs with TensorFlow for dog skin disease classification.
 - **Backend Server**: Robust backend server setup and model deployment using TensorFlow Serving and FastAPI.
 - **Frontend Development**: Built a seamless and responsive frontend using React JS.
 - **Cloud Deployment**: Deployed the application on Google Cloud Platform leveraging Google Cloud Functions for scalability and reliability.
