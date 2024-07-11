@@ -1,4 +1,4 @@
-# Deep Learning-based Dog Skin Disease Classification System
+# Dog Skin Disease Classification System
 
 ## Project Overview
 
